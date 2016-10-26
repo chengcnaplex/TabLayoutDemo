@@ -13,9 +13,9 @@ import butterknife.OnClick;
 public class MainActivity extends AppCompatActivity {
 
     @InjectView(R.id.top_btn)
-    private Button mTopBtn;
+    public Button mTopBtn;
     @InjectView(R.id.bottom_btn)
-    private Button mBottomBtn;
+    public Button mBottomBtn;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
