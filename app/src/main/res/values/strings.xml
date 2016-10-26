@@ -3,4 +3,6 @@
     <string name="addTab">addTab</string>
     <string name="fixed_mode">fixed_mode</string>
     <string name="tab_mode_scrollable">tab_mode_scrollable</string>
+    <string name="topBtn">topTab</string>
+    <string name="bottmBtn">bottomTab</string>
 </resources>
